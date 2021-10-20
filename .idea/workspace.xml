@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="opengl_engine" targetName="uninstall" />
+      <config projectName="opengl_engine" targetName="update_mappings" />
+      <config projectName="opengl_engine" targetName="opengl_engine" />
+      <config projectName="opengl_engine" targetName="glfw" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8af6de0f-91a1-4ebc-bd3e-bdb6f188a260" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/opengl-engine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/glad/include/KHR/khrplatform.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/glad/include/glad/glad.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/glad/src/glad.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/glfw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CMakeLists.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1zkglI21RkwgZlWz5Y4xLhWPCv4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ozzadar\CLionProjects\opengl-engine\external" />
+      <recent name="C:\Users\ozzadar\CLionProjects\opengl-engine\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.opengl_engine">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="opengl_engine" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="opengl_engine" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="opengl_engine" TARGET_NAME="opengl_engine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="opengl_engine" RUN_TARGET_NAME="opengl_engine">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="opengl_engine" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="update_mappings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="opengl_engine" TARGET_NAME="update_mappings" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.opengl_engine" />
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.glfw" />
+      <item itemvalue="CMake Application.update_mappings" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af6de0f-91a1-4ebc-bd3e-bdb6f188a260" name="Changes" comment="" />
+      <created>1634697650095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634697650095</updated>
+      <workItem from="1634697653113" duration="978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
